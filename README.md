@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the documentation of Compass, Tabiya's open AI chatbot designed to
+  Welcome to the documentation of Compass, Tabiya's AI chatbot designed to
   assist job-seekers in exploring and discovering their skills.
 layout:
   title:
@@ -19,4 +19,4 @@ layout:
 
 <figure><picture><source srcset=".gitbook/assets/compass_logo_web_light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/compass_logo_web_dark.png" alt="" width="339"></picture><figcaption></figcaption></figure>
 
-Compass is Tabiya's open AI chatbot designed to assist job-seekers in exploring and discovering their skills. Compass has two objectives: Populate a digital skill wallet that captures the experience of job-seekers, including the skills inherent in their formal and informal work. By doing so, guide job-seekers in exploring and discovering their skills and interests based on their lived experiences.
+Compass is Tabiya's AI chatbot designed to assist job-seekers in exploring and discovering their skills. Compass has two objectives: Populate a digital skill wallet that captures the experience of job-seekers, including the skills inherent in their formal and informal work. By doing so, guide job-seekers in exploring and discovering their skills and interests based on their lived experiences.

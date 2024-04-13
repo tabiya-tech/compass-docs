@@ -23,4 +23,4 @@ Compass is Tabiya's AI chatbot designed to assist job-seekers in exploring and d
 
 ## Funders and Partners
 
-<figure><img src=".gitbook/assets/logo_Google.org_Support_FullColor_cmyk coated_stacked.png" alt="Google.org logo" width="200"></figure>
+<figure style="border: none;"><img style="border: none;" src=".gitbook/assets/logo_Google.org_Support_FullColor_cmyk coated_stacked.png" alt="Google.org logo" width="200"></figure>

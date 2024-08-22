@@ -27,7 +27,7 @@ Compass is Tabiya's open-source, generative AI-powered conversational agent, whi
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Open-source and Interoperable</strong></td><td></td><td></td></tr><tr><td><strong>Skills over Credentials</strong></td><td></td><td></td></tr><tr><td><strong>Responsible, Safe, and Transparent</strong> </td><td></td><td></td></tr><tr><td><strong>Voice-Based Interactions</strong><br>(coming soon)</td><td></td><td></td></tr><tr><td><strong>Multiple Local Languages</strong> <br>(coming soon) </td><td></td><td></td></tr></tbody></table>
 
-## The Challenge
+## Our Approach: Skills Exploration using AI with Tight Guardrails
 
 Compass addresses two specific challenges:
 

@@ -30,7 +30,7 @@ Compass addresses two specific challenges:
 1. Creating an effective CV that highlights relevant skills for employers is challenging. An inaccurate initial representation of someone's experiences can lead to incorrect guidance and negative impacts on their job prospects.
 2. Current methods to assist jobseekers with this mostly rely on human counselors and are thus expensive and not scalable.
 
-Compass uses a large language model (LLM) and a conversational interface to act as a digital counselor that helps job seekers build a CV that highlights their skills. The tool uses retrieval augmented generation (RAG) to combine an off-the-shelf commercial LLM with a structured and human-vetted overview of all occupations and skills in the labor market (a “skills taxonomy”). At the end of the conversation, jobseekers can download and store a skills report and CV.&#x20;
+Compass uses a large language model (LLM) and a conversational interface to act as a digital counselor that helps job seekers build a CV that highlights their skills. The tool uses agentic workflows and combine an off-the-shelf commercial LLM with a structured, human-vetted overview of all occupations and skills in the labor market (a “skills taxonomy”). At the end of the conversation, jobseekers can download and store a skills report and CV.&#x20;
 
 ## Funders and Partners
 

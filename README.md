@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome to the documentation of Compass, Tabiya's AI chatbot designed to
-  assist job-seekers in exploring and discovering their skills.
+  Compass is an innovative, AI-powered chatbot designed to revolutionize the way
+  a young person identifies, articulates, and showcases their skills.
 layout:
   title:
     visible: true
@@ -15,22 +15,87 @@ layout:
     visible: true
 ---
 
-# Compass: Overview
-
-
+# Compass: Unlock your potential, discover your skills
 
 <figure><picture><source srcset=".gitbook/assets/compass_logo_web_light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/compass_logo_web_dark.png" alt="Compass by Tabiya logo" width="339"></picture><figcaption></figcaption></figure>
 
-Compass is Tabiya's open-source, generative AI-powered conversational agent, which talks to a young person, understands their past experience and skills, and matches them with the best opportunities for them. Compass focuses on skills over credentials, including skills from informal and unpaid work.
+Developed by Tabiya, Compass is a personal career assistant, helping youth uncover hidden talents and match them with the best opportunities in the job market.
 
-## Our Approach
+## The Compass solution:
 
-Compass addresses two specific challenges:
+Compass is an open-source, conversational AI tool that:&#x20;
 
-1. Creating an effective CV that highlights relevant skills for employers is challenging. An inaccurate initial representation of someone's experiences can lead to incorrect guidance and negative impacts on their job prospects.
-2. Current methods to assist jobseekers with this mostly rely on human counselors and are thus expensive and not scalable.
+1. Engages in **natural dialogue to explore** your experience&#x20;
+2. Analyzes a user's input to **identify and categorize skills** against localized [taxonomies](https://docs.tabiya.org/overview/projects/inclusive-livelihoods-taxonomy/open-taxonomy-platform)&#x20;
+3. Identifies **skills from both formal and informal work**&#x20;
+4. Creates **a comprehensive skills profile** tailored to the user&#x20;
+5. Generates a **professional customizable CV** highlighting one’s strengths&#x20;
+6. **Matches a user's skills** with relevant economic opportunities&#x20;
+7. Recommends **personalized recommendations** for skill development and career advancement.&#x20;
 
-Compass uses a large language model (LLM) and a conversational interface to act as a digital counselor that helps job seekers build a CV that highlights their skills. The tool uses agentic workflows and combine an off-the-shelf commercial LLM with a structured, human-vetted overview of all occupations and skills in the labor market (a “skills taxonomy”). At the end of the conversation, jobseekers can download and store a skills report and CV.&#x20;
+Compass uses a large language model (LLM) and a conversational interface to act as a digital counselor that helps job seekers build a CV that highlights their skills. The tool uses agentic workflows and combines an off-the-shelf commercial LLM with a structured, human-vetted overview of all occupations and skills in the labor market (a “skills taxonomy”). &#x20;
+
+## Addressing critical challenges:
+
+In today's rapidly evolving job market, Compass tackles two persistent and interconnected problems that hinder effective workforce development:&#x20;
+
+**Difficulties in articulating skills and experiences:** Creating an effective CV that truly showcases relevant skills is a difficult task for many young job seekers. It's not just about listing experiences; it's about translating those experiences into a language that resonates with employers. For those with non-traditional backgrounds or informal work experience, this challenge is even more daunting. An inaccurate or underwhelming CV can set off a domino effect.
+
+**The Scalability Struggle:** Traditional methods of addressing this issue rely heavily on human career counselors. While these professionals can provide valuable insights, this approach comes with significant limitations: &#x20;
+
+Compass shatters these barriers by providing an AI-powered solution that's not only scalable and cost-effective but also high-quality and a digital public good. It democratizes access to expert-level career guidance, ensuring that every job seeker, regardless of their background or resources, can present their best self for career growth.&#x20;
+
+## Benefits of Compass:
+
+**For Philanthropic Institutions:**&#x20;
+
+* **Scalable Impact:** Support a solution that can reach thousands of job seekers without proportional increases in costs&#x20;
+* **Data-Driven Insights:** Enable organizations solving for unemployment to gain valuable data on skills gaps and labor market trends to inform policy and program decisions&#x20;
+* **Promote Equity:** Support a tool that recognizes and values skills from diverse backgrounds and experiences, including informal and unpaid work&#x20;
+* **Enhance Existing Programs:** Complement and enhance the effectiveness of current workforce development initiatives&#x20;
+* **Foster Innovation:** Through the Tabiya ecosystem, deployment of Compass is envisioned to spur innovation from our network of local, implementation partners contributing to the cutting-edge resource as it is applied to solve pressing social challenges&#x20;
+
+**For Partner Institutions:**&#x20;
+
+* **Increase Efficiency:** Streamline the process of skills identification and job matching&#x20;
+* **Improve Outcomes:** Connect candidates with suitable opportunities, leading to better job placements and retention&#x20;
+* **Cost-Effective Scaling:** Provide personalized career guidance to more job seekers without proportional increases in staffing&#x20;
+* **Data-Informed Decision Making:** Utilize aggregated insights to tailor programs and services
+
+**For Job Seekers:**
+
+* **Discover Hidden Potential:** Uncover and articulate skills they may not have recognized&#x20;
+* **Access Expert Guidance:** Benefit from AI-driven career advice guided by human experts&#x20;
+* **Improved Job Matching:** Connect with opportunities that align with their unique skill sets&#x20;
+* **Career Development:** Receive personalized recommendations for skill enhancement and career growth&#x20;
+
+## Future features for Compass:
+
+* **Expanded geographic reach:** Widespread adoption of Compass for use in emerging markets&#x20;
+* **Multilingual support:** Expand language capabilities to serve diverse populations&#x20;
+* **Voice integration:** Enable our users to speak to Compass in their local dialects&#x20;
+* **Portable skills wallet:** Compass skills exploration outputs activated in an interoperable skills wallet&#x20;
+* **Enhanced features:** Develop more advanced career pathing and skills development recommendations&#x20;
+* **Integration capabilities:** Create APIs and tools for seamless integration with existing job platforms and career services&#x20;
+* **Impact measurement:** Implement robust analytics to track and report on Compass's effectiveness in improving job placement rates and career outcomes&#x20;
+
+## Our open source commitment:
+
+Compass is designed as a digital public good:&#x20;
+
+* The core technology is open-source, allowing for transparency and community-driven improvements&#x20;
+* We aim to build a diverse global community of contributors and implementers around Compass&#x20;
+* Organizations supporting youth in their career journeys can adapt Compass to their specific needs and contexts&#x20;
+
+## Get involved:
+
+We welcome partnerships and collaborations to further develop and implement Compass:&#x20;
+
+* For inquiries about supporting or implementing Compass, connect with us [here](https://form.typeform.com/to/rzvG7kiL?typeform-source=compass.tabiya.org)&#x20;
+* To learn more about our current projects and future plans, visit [https://www.tabiya.org](https://www.tabiya.org/)&#x20;
+* Follow our progress and join the conversation on [https://www.linkedin.com/company/tabiya](https://www.linkedin.com/company/tabiya) &#x20;
+
+Together, we can leverage the power of AI to create more inclusive and efficient labor markets worldwide.&#x20;
 
 ## Funders and Partners
 

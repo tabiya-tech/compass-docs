@@ -81,3 +81,9 @@ Together, we can leverage the power of AI to create more inclusive and efficient
 <figure><img src=".gitbook/assets/logo_Google.org_Support_FullColor_cmyk coated_stacked.png" alt="Google.org logo" width="200"><figcaption></figcaption></figure>
 
 </div>
+
+<div align="left" data-full-width="false">
+
+<figure><img src=".gitbook/assets/University_of_Oxford.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>

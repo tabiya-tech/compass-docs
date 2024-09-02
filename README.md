@@ -47,29 +47,9 @@ Compass shatters these barriers by providing an AI-powered solution that's not o
 
 ## Benefits of Compass:
 
-**For Philanthropic Institutions:**&#x20;
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>For Funders:</strong></p><ul><li><strong>Scalable Impact:</strong> Reach thousands of job seekers efficiently with minimal cost increase.</li></ul><ul><li><strong>Data-Driven Insights:</strong> Provide valuable data on skills gaps and labor market trends to guide policies and programs.</li></ul><ul><li><strong>Promote Equity:</strong> Value skills from diverse backgrounds, including informal and unpaid work.</li></ul><ul><li><strong>Enhance Existing Programs:</strong> Strengthen current workforce development initiatives.</li></ul><ul><li><strong>Foster Innovation:</strong> Use the Tabiya ecosystem to encourage innovation and address social challenges.</li></ul></td><td></td><td></td></tr><tr><td><strong>For Partners:</strong></td><td><p></p><ul><li><strong>Increase Efficiency:</strong> Simplify skills identification and job matching.</li></ul><ul><li><strong>Improve Outcomes:</strong> Enhance job placements and retention with suitable opportunities.</li></ul><ul><li><strong>Cost-Effective Scaling:</strong> Offer personalized guidance to more job seekers without extra staff.</li></ul><ul><li><strong>Data-Informed Decisions:</strong> Use insights to tailor services and programs.</li></ul></td><td></td></tr><tr><td><strong>For Job Seekers:</strong></td><td><p></p><ul><li><strong>Discover Potential:</strong> Identify and articulate hidden skills.</li></ul><ul><li><strong>Access Guidance:</strong> Benefit from AI-driven career advice with human expertise.</li></ul><ul><li><strong>Improved Matching:</strong> Find opportunities that fit unique skill sets.</li></ul><ul><li><strong>Career Development:</strong> Receive tailored recommendations for skill and career growth.</li></ul></td><td></td></tr></tbody></table>
 
-* **Scalable Impact:** Support a solution that can reach thousands of job seekers without proportional increases in costs&#x20;
-* **Data-Driven Insights:** Enable organizations solving for unemployment to gain valuable data on skills gaps and labor market trends to inform policy and program decisions&#x20;
-* **Promote Equity:** Support a tool that recognizes and values skills from diverse backgrounds and experiences, including informal and unpaid work&#x20;
-* **Enhance Existing Programs:** Complement and enhance the effectiveness of current workforce development initiatives&#x20;
-* **Foster Innovation:** Through the Tabiya ecosystem, deployment of Compass is envisioned to spur innovation from our network of local, implementation partners contributing to the cutting-edge resource as it is applied to solve pressing social challenges&#x20;
-
-**For Partner Institutions:**&#x20;
-
-* **Increase Efficiency:** Streamline the process of skills identification and job matching&#x20;
-* **Improve Outcomes:** Connect candidates with suitable opportunities, leading to better job placements and retention&#x20;
-* **Cost-Effective Scaling:** Provide personalized career guidance to more job seekers without proportional increases in staffing&#x20;
-* **Data-Informed Decision Making:** Utilize aggregated insights to tailor programs and services
-
-**For Job Seekers:**
-
-* **Discover Hidden Potential:** Uncover and articulate skills they may not have recognized&#x20;
-* **Access Expert Guidance:** Benefit from AI-driven career advice guided by human experts&#x20;
-* **Improved Job Matching:** Connect with opportunities that align with their unique skill sets&#x20;
-* **Career Development:** Receive personalized recommendations for skill enhancement and career growth&#x20;
-
-## Future features for Compass:
+Future features for Compass:
 
 * **Expanded geographic reach:** Widespread adoption of Compass for use in emerging markets&#x20;
 * **Multilingual support:** Expand language capabilities to serve diverse populations&#x20;

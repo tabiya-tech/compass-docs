@@ -39,17 +39,16 @@ Compass uses a large language model (LLM) and a conversational interface to act 
 
 In today's rapidly evolving job market, Compass tackles two persistent and interconnected problems that hinder effective workforce development:&#x20;
 
-**Difficulties in articulating skills and experiences:** Creating an effective CV that truly showcases relevant skills is a difficult task for many young job seekers. It's not just about listing experiences; it's about translating those experiences into a language that resonates with employers. For those with non-traditional backgrounds or informal work experience, this challenge is even more daunting. An inaccurate or underwhelming CV can set off a domino effect.
+* **Challenges in Showcasing Skills:** Crafting a CV that highlights relevant skills is tough for many job seekers. It's about translating experiences into terms that appeal to employers. This is harder for those with non-traditional or informal experience. A poor CV can lead to missed opportunities.
+* **The Scalability Struggle:** Traditional methods rely heavily on human career counselors. While these professionals offer valuable insights, this approach has significant limitations.
 
-**The Scalability Struggle:** Traditional methods of addressing this issue rely heavily on human career counselors. While these professionals can provide valuable insights, this approach comes with significant limitations: &#x20;
-
-Compass shatters these barriers by providing an AI-powered solution that's not only scalable and cost-effective but also high-quality and a digital public good. It democratizes access to expert-level career guidance, ensuring that every job seeker, regardless of their background or resources, can present their best self for career growth.&#x20;
+Compass breaks down barriers by offering an AI solution that's scalable, affordable, and high-quality.
 
 ## Benefits of Compass:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>For Funders:</strong></p><ul><li><strong>Scalable Impact:</strong> Reach thousands of job seekers efficiently with minimal cost increase.</li></ul><ul><li><strong>Data-Driven Insights:</strong> Provide valuable data on skills gaps and labor market trends to guide policies and programs.</li></ul><ul><li><strong>Promote Equity:</strong> Value skills from diverse backgrounds, including informal and unpaid work.</li></ul><ul><li><strong>Enhance Existing Programs:</strong> Strengthen current workforce development initiatives.</li></ul><ul><li><strong>Foster Innovation:</strong> Use the Tabiya ecosystem to encourage innovation and address social challenges.</li></ul></td><td></td><td></td></tr><tr><td><strong>For Partners:</strong></td><td><p></p><ul><li><strong>Increase Efficiency:</strong> Simplify skills identification and job matching.</li></ul><ul><li><strong>Improve Outcomes:</strong> Enhance job placements and retention with suitable opportunities.</li></ul><ul><li><strong>Cost-Effective Scaling:</strong> Offer personalized guidance to more job seekers without extra staff.</li></ul><ul><li><strong>Data-Informed Decisions:</strong> Use insights to tailor services and programs.</li></ul></td><td></td></tr><tr><td><strong>For Job Seekers:</strong></td><td><p></p><ul><li><strong>Discover Potential:</strong> Identify and articulate hidden skills.</li></ul><ul><li><strong>Access Guidance:</strong> Benefit from AI-driven career advice with human expertise.</li></ul><ul><li><strong>Improved Matching:</strong> Find opportunities that fit unique skill sets.</li></ul><ul><li><strong>Career Development:</strong> Receive tailored recommendations for skill and career growth.</li></ul></td><td></td></tr></tbody></table>
 
-Future features for Compass:
+## Compass: Upcoming features:
 
 * **Expanded geographic reach:** Widespread adoption of Compass for use in emerging markets&#x20;
 * **Multilingual support:** Expand language capabilities to serve diverse populations&#x20;

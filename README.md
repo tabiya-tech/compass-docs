@@ -31,7 +31,7 @@ Compass is an open-source, conversational AI tool that:&#x20;
 6. **Matches a user's skills** with relevant economic opportunities&#x20;
 7. Recommends **personalized recommendations** for skill development and career advancement.&#x20;
 
-Compass uses a large language model (LLM) and a conversational interface to act as a digital counselor that helps job seekers build a CV that highlights their skills. The tool uses agentic workflows and combines an off-the-shelf commercial LLM with a structured, human-vetted overview of all occupations and skills in the labor market (a “skills taxonomy”). &#x20;
+Compass uses a large language model (LLM) and a conversational interface to help job seekers build a CV that highlights their skills. The tool combines a commercial LLM with a human-reviewed skills taxonomy for the labor market.&#x20;
 
 ## Addressing critical challenges:
 

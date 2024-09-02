@@ -1,7 +1,5 @@
 ---
-description: >-
-  Compass is an innovative, AI-powered chatbot designed to revolutionize the way
-  a young person identifies, articulates, and showcases their skills.
+description: Unlock your potential, discover your skills
 layout:
   title:
     visible: true
@@ -15,11 +13,11 @@ layout:
     visible: true
 ---
 
-# Compass: Unlock your potential, discover your skills
+# Compass:
 
 <figure><picture><source srcset=".gitbook/assets/compass_logo_web_light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/compass_logo_web_dark.png" alt="Compass by Tabiya logo" width="339"></picture><figcaption></figcaption></figure>
 
-Developed by Tabiya, Compass is a personal career assistant, helping youth uncover hidden talents and match them with the best opportunities in the job market.
+Compass is an innovative, AI-powered chatbot designed to revolutionize the way a young person identifies, articulates, and showcases their skills. Developed by Tabiya, Compass is a personal career assistant, helping youth uncover hidden talents and match them with the best opportunities in the job market.
 
 ## The Compass solution:
 

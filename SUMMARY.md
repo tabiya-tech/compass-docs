@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Compass overview](README.md)
+* [Compass Overview](README.md)
 * [Technical Overview](technical-overview.md)
 * [Roadmap](roadmap.md)

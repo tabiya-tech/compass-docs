@@ -44,7 +44,7 @@ A set of 11 SA Youth subscribed youth were selected to test the functionality of
 
 2. Timing&#x20;
 
-From the nine young people who tested Compass, two groups emerged. Group 1 comprised three participants who received a work experience summary but not a skills summary. Group 2 included six participants who received both work experience and skills summary. Group 1 took an average of 32 minutes to complete the entire UX testing session. Group 2 took an average of 32 minutes and 3o seconds to complete. Overviews of each UX testing session, including details on the timings of each session can be found [here](results-overview.md).&#x20;
+From the nine young people who tested Compass, two groups emerged. Group 1 comprised three participants who received a work experience summary but not a skills summary. Group 2 included six participants who received both work experience and skills summary. Group 1 took an average of 32 minutes to complete the entire UX testing session. Group 2 took an average of 32 minutes and 3o seconds to complete. Overviews of each UX testing session, including details on the timings of each session can be found [here](broken-reference).&#x20;
 
 The full Compass experience was completed without interruption only once. This was done by Participant 9 who only possessed one experience and thus, one set of skills. Hence, the initially projected time of 45 minutes to complete the entire UX testing session was an underestimation. Instead, all participants finished within 45 minutes only because the moderator of the participant sessions prematurely instructed participants to finish their interactions with Compass. Given that participants were paid for their time, not doing this would have violated labor laws.&#x20;
 

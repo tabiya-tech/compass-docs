@@ -36,7 +36,7 @@ Another important feature of Compass is its ability to offer traceability of out
 
 ### Evaluation&#x20;
 
-For evaluating Compass, we followed the strategy outlined bellow, tailored to the specifics of each agent:
+For evaluating Compass, we followed the strategy outlined below, tailored to the specifics of each agent:
 
 * Agent’s tools where evaluated in isolation. Each component was evaluated based on specific inputs and expected outputs. For example, for component performing a classification task, we used known inputs and expected class labels to evaluate the tool.&#x20;
 * Conversational components were evaluated with scripted conversations, where the pre-conducted conversation is treated as a given input and the expected output is evaluated by another LLM (auto-evaluators) or by human inspection.
